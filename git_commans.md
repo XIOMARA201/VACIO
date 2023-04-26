@@ -12,10 +12,10 @@ git log: Es una herramienta básica de Git para explorar el historial del reposi
 
 git branch: Te permite crear, enumerar y eliminar ramas, así como cambiar su nombre.
 
-git add:
+git add: Añade un cambio del directorio de trabajo en el entorno de ensayo.
 
-git commit:
+git commit: Captura una instantánea de los cambios preparados en ese momento del proyecto. Las instantáneas confirmadas pueden considerarse como versiones "seguras" de un proyecto
 
-git push:
+git push: Se usa para cargar contenido del repositorio local a un repositorio remoto
 
-git merge:
+git merge: Permite tomar las líneas independientes de desarrollo creadas por git branch e integrarlas en una sola rama. 
